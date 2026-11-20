@@ -1,0 +1,11 @@
+# Deliberately small public documentation repository
+*
+!*/
+!.gitignore
+!AGENTS.md
+!README.md
+!CHANGELOG.md
+!docs/**
+!case-studies/**
+!verification/**
+!media/**
